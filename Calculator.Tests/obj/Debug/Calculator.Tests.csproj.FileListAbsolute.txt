@@ -1,0 +1,17 @@
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojAssemblyReference.cache
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CopyComplete
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\jdieg\Desktop\calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
