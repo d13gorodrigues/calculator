@@ -8,3 +8,13 @@ C:\Users\jdieg\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsForm
 C:\Users\jdieg\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\jdieg\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\jdieg\Desktop\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Projeto testando Jenkins\calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
